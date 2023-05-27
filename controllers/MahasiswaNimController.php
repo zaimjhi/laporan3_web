@@ -16,5 +16,4 @@ class MahasiswaNimController extends \yii\web\Controller
             'dataProvider' => $dataProvider
         ]);
     }
-
 }
